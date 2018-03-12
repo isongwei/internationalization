@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "中文"; ObjectID = "6Dd-jF-gpw"; */
+"6Dd-jF-gpw.text" = "ch";
+
+/* Class = "UILabel"; text = "英文"; ObjectID = "C3s-YG-dHf"; */
+"C3s-YG-dHf.text" = "en";
+
+/* Class = "UILabel"; text = "印度尼西亚文"; ObjectID = "HfG-mV-xFw"; */
+"HfG-mV-xFw.text" = "id";
+
+/* Class = "UIButton"; normalTitle = "DISS"; ObjectID = "jqJ-tH-ad8"; */
+"jqJ-tH-ad8.normalTitle" = "DISS";
